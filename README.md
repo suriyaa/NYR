@@ -5,8 +5,8 @@ The **New Year's Resolutions** for you all.
 
 # Thanks to...
 
-...[Michael Perry](http://www.codecademy.com/MichaelPerry)
-...[Codecademy](http://www.codecademy.com)
+ * ...[Michael Perry](http://www.codecademy.com/MichaelPerry)
+ * ...[Codecademy](http://www.codecademy.com)
 
 
 ----
