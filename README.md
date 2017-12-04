@@ -1,12 +1,8 @@
-NYR
-===
+# New Year's Resolutions (NYR)
 
-The **New Year's Resolutions** for you all.
+> The **New Year's Resolutions** for you all.
 
-# Thanks to...
-
- * ...[Michael Perry](http://www.codecademy.com/MichaelPerry)
- * ...[Codecademy](http://www.codecademy.com)
+My originally published code is available at https://www.codecademy.com/suriyaakudo/codebits/pDfXyw.
 
 
 ----
